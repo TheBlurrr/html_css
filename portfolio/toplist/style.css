@@ -9,6 +9,9 @@
 }
 
 
+.Middle {
+    display: flex;
+}
 .image {
     max-width: 460px;
 }
